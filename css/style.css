@@ -541,14 +541,14 @@ ul {
   display: inline-block;
   padding: 17px 50px;
   border-radius: 5px;
-  background-color: #B08EAD;
-  border: 2px solid #B08EAD;
+  background-color: 8F8A89;
+  border: 2px solid rgb(121, 108, 120);
   font-size: 15px;
   font-weight: 500;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   text-transform: capitalize;
-  color: #fff;
+  color: #918a8b;
 }
 
 /* line 36, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_button.scss */
@@ -2497,7 +2497,7 @@ ul {
   content: "";
   left: 0;
   bottom: 0;
-  background-color: #B08EAD;
+  background-color: #8F8A89;
   width: 196px;
   height: 618px;
 }
